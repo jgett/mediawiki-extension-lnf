@@ -1,0 +1,50 @@
+.lnf-resource{
+}
+
+.lnf-resource .info{
+}
+
+.lnf-resource .info .title{
+	padding-bottom: 10px;
+}
+
+.lnf-resource .info .title .building-name,
+.lnf-resource .info .title .lab-name,
+.lnf-resource .info .title .proctech-name{
+	font-weight: bold;
+	font-size: 12pt;
+	color: #003366;
+}
+
+.lnf-resource .info .title .resource-name{
+	font-weight: bold;
+	font-size: 12pt;
+	color: #CC6633;
+}
+
+.lnf-resource .tool-image-container{
+
+}
+
+.lnf-resource .tool-image-container img{
+	width: 300px;
+}
+
+.lnf-tool-table .lnf-lab{
+    font-weight: bold;
+    font-size: larger;
+}
+
+.lnf-tool-table .lnf-proc-tech{
+    font-weight: bold;
+    padding-left: 20px;
+}
+
+.lnf-tool-table .lnf-resource-name{
+    padding-left: 40px;
+}
+
+.tool-table > tbody > tr > td{
+    padding: 10px;
+    border: solid 1px #ccc;
+}
